@@ -8,7 +8,7 @@
 
 ### Create Resource
 
-### Create Method ( GET | DELETE | POST | PUT | OTHERS)
+### Create Method ( GET | DELETE | POST | PUT | OTHERS )
 
 ### Mock -> Save
 
